@@ -18,4 +18,3 @@
 4. 进入mysite目录python manage.py runserver运行
 5. 打开另一个local终端窗口
 6. 进入Music目录cnpm install，然后cnpm run dev，等待程序运行后用前端url打开
-7. Report of HW4是之前第四个作业的报告，由于之前交的时候交成了第二次作业的报告，这里再传一次
